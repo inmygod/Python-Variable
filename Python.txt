@@ -3,11 +3,14 @@
 - Python is dynamically typed
 - You don't need to declare a variable type explicitly.
 
-নিয়ম
+- নিয়ম
 - Descriptive Names
 - Lowercase with Underscore
 - Avoid Reserved Words
 - Start with a Letter or Underscore
 - No Special Characters
 - Case Sensetivity
-- Short Singular Nouns
+- Short but Meaningful
+- Use Singular Nouns, Plural Nouns
+- Consistency
+- Avoid Double Underscores
